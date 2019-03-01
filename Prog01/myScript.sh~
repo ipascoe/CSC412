@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ./prog 1 1 &> /dev/null
+echo $?
